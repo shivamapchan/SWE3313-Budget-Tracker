@@ -7,7 +7,7 @@ class BudgetTrackerApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'BUDGET TRACKER',
+      title: 'Budget Tracker',
       home: MyHomePage(),
     );
   }
